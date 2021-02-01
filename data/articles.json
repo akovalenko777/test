@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "image":"assets/images/pic01.jpg",
+        "image_alt":"Pic 01",
+        "title":"Lorem ipsum<br /> dolor amet nullam",
+        "text":"Morbi in sem quis dui placerat ornare. Pellentesquenisi<br />euismod in, pharetra a, ultricies in diam sed arcu. Cras<br />consequat  egestas augue vulputate."
+    },
+    {
+        "id":"2",
+        "image":"assets/images/pic02.jpg",
+        "image_alt":"Pic 02",
+        "title":"Sed feugiat<br /> tempus adipicsing",
+        "text":"Pellentesque fermentum dolor. Aliquam quam lectus<br />facilisis auctor, ultrices ut, elementum vulputate, nunc<br /> blandit ellenste egestagus commodo."
+    }
+]
